@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/bin/bash 
+
 GROUP=rg-createdbyTF
 for id in 0 1 2
 do
